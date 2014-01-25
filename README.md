@@ -12,7 +12,7 @@ This is harvested from vim.org. only colorschemes downloaded in a single `.vim` 
 Installation
 ------------
 
-if you [use vim + pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+If you [use vim + pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
     cd ~/.vim
     git submodule add git@github.com:flazz/vim-colorschemes.git bundle/colorschemes
