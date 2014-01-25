@@ -5,12 +5,9 @@
 Vim colorschemes
 ================
 
-one stop shop for vim colorschemes.
+One stop shop for vim colorschemes.
 
-this is harvested from vim.org. only colorschemes downloaded in a single `.vim`
-file are included.
-
-for hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
+This is harvested from vim.org. only colorschemes downloaded in a single `.vim` file are included. For hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
 
 Installation
 ------------
@@ -59,6 +56,11 @@ Total of **468** color schemes:
 * Monokai.vim
 * MountainDew.vim
 * PapayaWhip.vim
+* Tomorrow-Night-Blue.vim
+* Tomorrow-Night-Bright.vim
+* Tomorrow-Night-Eighties.vim
+* Tomorrow-Night.vim
+* Tomorrow.vim
 * adam.vim
 * adaryn.vim
 * adobe.vim
@@ -260,6 +262,7 @@ Total of **468** color schemes:
 * jellyx.vim
 * jhdark.vim
 * jhlight.vim
+* jiks.vim
 * kalt.vim
 * kaltex.vim
 * kate.vim
