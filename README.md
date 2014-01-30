@@ -7,10 +7,8 @@ Forked from the original and now seemingly not maintained vim-colorschemes repo 
 Vim colorschemes
 ================
 
-One stop shop for vim colorschemes.
+One stop shop for vim colorschemes. This is harvested from vim.org. only colorschemes downloaded in a single `.vim` file are included. For hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
 
-This is harvested from vim.org. only colorschemes downloaded in a single `.vim` file are included. For hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
-=======
 https://github.com/flazz/vim-colorschemes
 
 Installation
