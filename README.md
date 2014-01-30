@@ -2,8 +2,6 @@ Intro
 -----
 Forked from the original and now seemingly not maintained vim-colorschemes repo at:
 
-**Everyone else:** *Hi Franco*
-
 Vim colorschemes
 ================
 
@@ -34,14 +32,13 @@ If you aren't so clever just get all the files in `colors/*.vim` into
 Something missing? Send a pull request!!!
 -----------------------------------------
 
-Fork [this repo](http://github.com/zachgersh/vim-colorschemes) and send a pull request.
-
-I am actively maintaining this now and hope to keep it up to date with as many colorschemes as people submit.
+Fork [this repo](http://github.com/zachgersh/vim-colorschemes) and send a pull request. I am actively maintaining this now and hope to keep it up to date with as many colorschemes as people submit.
 
 Previews
 --------
 
-Many of the themes here are listed [here](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
+* [Vivfy](http://bytefluent.com/vivfy)
+* [Vim Color Scheme Test](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
 
 Current colorschemes
 --------------------
