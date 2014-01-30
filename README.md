@@ -21,34 +21,34 @@ If you [use vim + pathogen](http://vimcasts.org/episodes/synchronizing-plugins-w
     cd ~/.vim
     git submodule add git@github.com:zachgersh/vim-colorschemes.git bundle/colorschemes
 
-if you [use vim + vundle](https://github.com/gmarik/vundle)
+If you [use vim + vundle](https://github.com/gmarik/vundle)
 
     " add to .vimrc
     Bundle 'zachgersh/vim-colorschemes'
     :BundleInstall
 
-if you aren't so clever just get all the files in `colors/*.vim` into
+If you aren't so clever just get all the files in `colors/*.vim` into
   `~/.vim/colors`
 
     # after downloading; unpacking; cd'ing
     cp colors/* ~/.vim/colors
 
 Something missing? Send a pull request!!!
-------------------------
+-----------------------------------------
 
-fork [this repo](http://github.com/zachgersh/vim-colorschemes) and send a pull request.
+Fork [this repo](http://github.com/zachgersh/vim-colorschemes) and send a pull request.
 
 I am actively maintaining this now and hope to keep it up to date with as many colorschemes as people submit.
 
 Previews
-------------------------
+--------
 
-many of the themes here are listed [here](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
+Many of the themes here are listed [here](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
 
 Current colorschemes
 --------------------
 
-Total of **471** color schemes:
+Total of **479** color schemes:
 
 * 256-grayvim.vim
 * 256-jungle.vim
@@ -254,8 +254,8 @@ Total of **471** color schemes:
 * heliotrope.vim
 * herald.vim
 * hornet.vim
-* hybrid.vim
 * hybrid-light.vim
+* hybrid.vim
 * ibmedit.vim
 * icansee.vim
 * impact.vim
